@@ -154,6 +154,10 @@ hr {
     .date {
         font-size: 25px;
     }
+
+    hr {
+        width: 85%;
+    }
 }
 
 @media (min-width: 700px) { 
